@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 79e879eb343940249b13cac29a436086
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - chesspiece: {instanceID: 0}
+  - timer: {instanceID: 0}
+  - promotionPanel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
